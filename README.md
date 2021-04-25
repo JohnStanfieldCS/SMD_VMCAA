@@ -1,7 +1,11 @@
 # SMD_VMCAA
+
 Auburn University 
+
 Course: Space Mission Design
+
 Team Members: John Stanfield, Carson Watkins, Matt Dow
+
 Roles: John - Backend & Simulation
        Carson - User Interaction & VR Environment Development
        Matt - Data Visualization
