@@ -12,6 +12,7 @@ Roles: John - Backend & Simulation
        
        
 Project Desicription: 
+
             - The team was tasked with developing a virtual reality software to monitor satellite constellations within an Oculus VR headset.
             
             - The team developed a complex software to satisfy the requirements of the project. The software is capable of recieving real-time 
