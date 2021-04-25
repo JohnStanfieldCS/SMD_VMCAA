@@ -11,7 +11,7 @@ Roles: John - Backend & Simulation
        Matt - Data Visualization
        
        
-Project Desicription: 
+Project Description: 
 
             - The team was tasked with developing a virtual reality software to monitor satellite constellations within an Oculus VR headset.
             
