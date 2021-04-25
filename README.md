@@ -5,6 +5,8 @@ Team Members: John Stanfield, Carson Watkins, Matt Dow
 Roles: John - Backend & Simulation
        Carson - User Interaction & VR Environment Development
        Matt - Data Visualization
+       
+       
 Project Desicription: 
             - The team was tasked with developing a virtual reality software to monitor satellite constellations within an Oculus VR headset.
             
